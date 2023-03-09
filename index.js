@@ -42,7 +42,7 @@ function newInventory() {
     document.body.append(inventory)
 }
 
-//Inventory items are being populated here!!!!!!!
+//Inventory items are being populated here
 newInventory()
 
 newImage('assets/green-character.gif', 100, 250)
